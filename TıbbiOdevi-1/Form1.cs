@@ -36,15 +36,15 @@ namespace TıbbiOdevi_1
             String bag;
             MySqlConnectionStringBuilder build = new MySqlConnectionStringBuilder();
 
-            build.UserID = "root";
-            build.Password = "";
-            build.Database = "hepatittani";
+            build.UserID = "user_name";
+            build.Password = "password";
+            build.Database = "db_name";
             build.Server = "localhost";
 
             bag = build.ToString();
             baglanti = new MySqlConnection(bag);
 
-            String sql = "SELECT * FROM hepatit";
+            String sql = "SELECT * FROM 'table_name'";
             DataTable dt = new DataTable();
 
             MySqlDataAdapter adapter = new MySqlDataAdapter();
@@ -183,7 +183,7 @@ namespace TıbbiOdevi_1
 
         private void button4_Click(object sender, EventArgs e)
         {
-            MySqlConnection connection = new MySqlConnection("datasource=localhost;port=3306;username=root;password=");
+            MySqlConnection connection = new MySqlConnection("datasource=localhost;port=port_no;username=user_name;password=");
             string insertQuery = "INSERT INTO hepatittani.hepatit(aile,Damar,Homo,temiz,kan,diyaliz,hemofili,hepatit) VALUES ('" + listBox1.SelectedItem.ToString()+ "','" + listBox2.SelectedItem.ToString() + "','" + listBox3.SelectedItem.ToString() + "','" + listBox4.SelectedItem.ToString() + "','" + listBox5.SelectedItem.ToString() + "','" + listBox6.SelectedItem.ToString() + "','" + listBox7.SelectedItem.ToString() + "','" + listBox8.SelectedItem.ToString() + "')";
             connection.Open();
             MySqlCommand cmd = new MySqlCommand(insertQuery, connection);

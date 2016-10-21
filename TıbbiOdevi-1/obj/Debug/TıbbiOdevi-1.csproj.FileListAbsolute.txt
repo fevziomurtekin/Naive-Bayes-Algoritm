@@ -1,0 +1,10 @@
+c:\users\ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\bin\Debug\TıbbiOdevi-1.exe.config
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\bin\Debug\TıbbiOdevi-1.exe
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\bin\Debug\TıbbiOdevi-1.pdb
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\bin\Debug\MySql.Data.dll
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi-1.csprojResolveAssemblyReference.cache
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi_1.Form1.resources
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi_1.Properties.Resources.resources
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi-1.csproj.GenerateResource.Cache
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi-1.exe
+C:\Users\Ömür\documents\visual studio 2015\Projects\TıbbiOdevi-1\TıbbiOdevi-1\obj\Debug\TıbbiOdevi-1.pdb
